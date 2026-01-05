@@ -1,1 +1,10 @@
+🌸 Task 5 – Credit Card Fraud Detection 
+
+This project involved detecting fraudulent credit card transactions from highly imbalanced datasets using machine learning classification. Key steps included data 
+preprocessing with SMOTE for class imbalance, exploratory data analysis (EDA) on anonymized PCA features (V1-V28), transaction amounts, and building models like Logistic Regression, 
+Random Forest, and XGBoost to classify genuine vs fraudulent transactions.
+
+Practical experience gained in handling imbalanced classification problems, anomaly detection, and evaluating models using Precision, Recall, F1-Score, and ROC-AUC metrics to minimize financial losses from fraud.
+
+Tech Stacks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn
 
