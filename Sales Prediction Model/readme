@@ -1,1 +1,7 @@
+🌸 Task 4 – Sales Prediction Model 
 
+ 
+ This project involved data preprocessing, exploratory data analysis (EDA), feature engineering on advertising spends (TV, Radio, Newspaper), and building regression models like Linear Regression or Random Forest to predict product sales using Python. 
+ Through this task, practical experience in handling regression problems was gained, optimizing marketing budgets for maximum sales impact based on structured datasets.
+​​
+Tech Stacks: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
