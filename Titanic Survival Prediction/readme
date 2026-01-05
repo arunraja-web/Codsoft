@@ -1,1 +1,5 @@
-readme
+🚢 Task 1- Titanic Survival Prediction Model 
+ 
+This project involved data cleaning, EDA, feature engineering, and building a classification model using Python.
+
+Tech Stacks : Numpy, pandas, matplotlib, seaborn, sckirit learn. 
